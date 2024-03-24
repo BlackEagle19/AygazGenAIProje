@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Futuristic Cityscape at Night",
+        "description": "This image portrays a bustling futuristic city at night, bathed in neon lights. Flying cars dart between towering skyscrapers under a star-dotted deep blue sky, with a large moon looming on the horizon. The blend of ultra-modern and traditional architectural designs creates a dynamic and vibrant atmosphere.",
+        "imageUrl": "photos/foto1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Whimsical Garden at Dawn",
+        "description": "Captures a whimsical garden illuminated by the soft light of dawn. Oversized, vibrant flowers and giant mushrooms dot the landscape, with a cobblestone path leading to a quaint wooden gate. Morning dew glistens on the flora, as friendly bumblebees enjoy the early light.",
+        "imageUrl": "photos/foto2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Serene Mountaintop at Sunrise",
+        "description":"This image reveals a breathtaking view from a serene mountaintop at sunrise. Soft pastel colors fill the sky, while the mountains are enveloped in light mist, creating a mystical aura. A lone traveler stands amidst wildflowers, captivated by the sunrise that illuminates the rugged terrain.",
+        "imageUrl": "photos/foto3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Vibrant Underwater Coral Reef",
+        "description":"An underwater scene teeming with life, showcasing a vibrant coral reef. Colorful fish weave through the coral, accompanied by a curious turtle, in waters dappled with sunlight creating patterns on the ocean floor. A gentle shark contributes to the serene yet lively atmosphere of this underwater world.",
+        "imageUrl": "photos/foto4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Cozy Winter Evening in a Cabin",
+        "description":" Depicts a cozy winter evening inside a warm cabin. The fireplace crackles, casting a soft glow over a room adorned with a plush sofa, knitted blankets, and fluffy pillows. Outside, snow gently falls in the quiet forest, illuminated by moonlight.",
+        "imageUrl": "photos/foto5.webp"
+    },
+    {
+        "id": 6,
+        "name": "Early Morning on a Bustling City Street",
+        "description":"This image captures the essence of a city waking up. Early morning sun bathes buildings in golden light, as people start their day on sidewalks filled with small shops, cafes, and bakeries. Some rush to work, while others savor their morning coffee, creating a lively atmosphere.",
+        "imageUrl": "photos/foto6.webp"
+    },
+    {
+        "id": 7,
+        "name": "Tranquil Japanese Zen Garden",
+        "description":"Features a serene Japanese Zen garden with neatly raked sand, carefully placed rocks, and trimmed bonsai trees. A small wooden bridge crosses a stream leading to a traditional tea house, all enclosed by a bamboo fence. This garden is a meditative space, isolated from the outside world, inviting tranquility and contemplation.",
+        "imageUrl": "photos/foto7.webp"
+    }
+
+]
